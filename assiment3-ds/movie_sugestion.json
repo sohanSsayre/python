@@ -1,0 +1,45 @@
+[
+  {
+    "movie_id": 101,
+    "title": "Inception",
+    "rating": 8.8,
+    "time_period": "148 min",
+    "ticket_price": 250.0
+  },
+  {
+    "movie_id": 102,
+    "title": "Interstellar",
+    "rating": 8.7,
+    "time_period": "169 min",
+    "ticket_price": null
+  },
+  {
+    "movie_id": 103,
+    "title": "Avatar",
+    "rating": 7.9,
+    "time_period": "162 min",
+    "ticket_price": 300.0
+  },
+  {
+    "movie_id": 104,
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "time_period": "152 min",
+    "ticket_price": 280.0
+  },
+  {
+    "movie_id": 105,
+    "title": "Dune",
+    "rating": 8.0,
+    "time_period": "155 min",
+    "ticket_price": null
+  },
+  {
+    "movie_id": 106,
+    "title": "Oppenheimer",
+    "rating": 8.9,
+    "time_period": "180 min",
+    "ticket_price": 350.0
+  }
+]
+
